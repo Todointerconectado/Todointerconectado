@@ -3,7 +3,6 @@
 ** My name is Francisco-Carusso / Todointerconnected** ✨
 
 My main page is: <a href="https://todointerconectado.com/" target="_blank">Todointerconectado.com</a>
-https://todointerconectado.com/
 
 <!--
 Here are some ideas to get started:
