@@ -9,9 +9,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/franciscocarusso/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franciscocarusso/" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/franciscocarusso/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franciscocarusso/" height="30" width="40" /></a>
+
 <a href="https://instagram.com/franciscocarusso" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="franciscocarusso" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucy8m1jdoqfr1rvnrunoikmq/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucy8m1jdoqfr1rvnrunoikmq/" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/channel/UCY8m1JDOQFr1RvnrUnOiKMQ/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucy8m1jdoqfr1rvnrunoikmq/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
