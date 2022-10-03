@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am name Francisco Carusso</h1>
+<h1 align="center">Hi 👋, My name is Francisco Carusso</h1>
 <h3 align="center">I'm a passionate frontend</h3>
 
 - 👨‍💻 All of my projects are available at [https://todointerconectado.com/](https://todointerconectado.com/)
