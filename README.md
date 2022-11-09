@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, My name is Francisco Carusso</h1>
 <h3 align="center">I'm a passionate frontend</h3>
 
+
+![Layout preview for the LysNet page](./img/banner.png)
+
 - 👨‍💻 All of my projects are available at [https://todointerconectado.com/](https://todointerconectado.com/)
 
 - 💬 Ask me about **html, css, javascript, react**
