@@ -1,9 +1,6 @@
 <p align="center" width="300">
     <img align="center"
      width="200"
-     style=" border-radius: 27% 73% 72% 28% / 30% 30% 70% 70%;
-            background: linear-gradient(145deg, #f0f0f0, #cacaca);
-            box-shadow: 23px 23px 56px #afa9a9, -23px -23px 46px #ffffff; "
      src="img/Perfil.jpg"/>
     <h2 align="center">¡Hey 👋! Soy Francisco Carusso 👨🏻‍💻</h2>
 </p>
