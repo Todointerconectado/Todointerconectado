@@ -76,3 +76,5 @@
     <img align="center" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=todointerconectado&show_icons=true&locale=en&layout=compact" alt="todointerconectado" /></p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=todointerconectado)](https://github.com/anuraghazra/github-readme-stats)
+
