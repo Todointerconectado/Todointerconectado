@@ -36,7 +36,10 @@
 <hr>
 <br>
 
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
+<p align="center">
+    <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
+<p>
+
 
 <p align="left">
     <p align="left">
