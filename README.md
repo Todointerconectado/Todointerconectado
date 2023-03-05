@@ -2,7 +2,12 @@
     <img align="center"
      width="200"
      src="img/perfil.png"/>
-    <h2 align="center">¡Hey 👋! Soy Francisco Carusso 👨🏻‍💻</h2>
+    <h2 align="center">
+        ¡Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">! Soy Francisco Carusso 👨🏻‍💻
+        <p>
+            <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Jetbrain+Mono&color=76F78C&lines=A+passionate+frontend+Student;Always+learning+new+things">
+        </p>
+    </h2>
 </p>
 
 ```javascript
@@ -30,6 +35,8 @@
 
 <hr>
 <br>
+
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
 
 <p align="left">
     <p align="left">
@@ -81,12 +88,10 @@
     alt='ACTIVAR la VIRTUALIZACIÓN en la BIOS Windows 10/11' /></a>
 
 <br>
+<hr> 
+<h3 align="center">📊 Estadisticas de los lenguages más usados</h3>
 
-# 📈 Estadisticas de los lenguages más usados
-
-<p>
-    <img align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=todointerconectado&show_icons=true&locale=en&layout=compact" alt="todointerconectado" /></p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=todointerconectado)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <br/> -->
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=todointerconectado&show_icons=true&locale=en&layout=compact" alt="todointerconectado"  width="400px"/> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=todointerconectado&show_icons=true&locale=en&layout=compact" alt="todointerconectado" height="157px"/>
 
