@@ -63,7 +63,7 @@
 
 <br>
 
-# 📹 Últimos vídeos en mi canal [![Youtube Todointerconectado channel](https://www.youtube.com/@Todointerconectado)](https://www.youtube.com/@todointerconectado)
+# 📹 Últimos vídeos en mi canal [![Youtube Todointerconectado channel](/img/youtube.svg)](https://www.youtube.com/@todointerconectado)
 
 <a href='https://www.youtube.com/watch?v=LeaKOlriVCk&t=1055s' target='_blank'>
     <img width='30%' 
