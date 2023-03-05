@@ -42,8 +42,7 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 </p>
 
-### 👨🏼‍🎓 <a href="https://github.com/Todointerconectado/basicojavascript" target="_blank">
-Aprende los primeros pasos en `JavaScript`! <img align="center" src="img/carpetaIconoJavascript.png" alt="https://github.com/Todointerconectado/basicojavascript" height="30" width="40"></a>
+# [👨🏼‍🎓 Aprende lo los primeros pasos en JavaScript](https://github.com/Todointerconectado/basicojavascript) <a href="https://github.com/Todointerconectado/basicojavascript" target="_blank"> <img align="center" src="img/carpetaIconoJavascript.png" alt="https://github.com/Todointerconectado/basicojavascript" height="30" width="40"></a>
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/@todointerconectado)
 
