@@ -28,11 +28,11 @@
     <a href="https://instagram.com/franciscocarusso" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></p>
 
-<hr>
+<br><hr>
 
 <p align="left">
-    <p align="left" style="display: flex; align-items: center;">
-        <spam align="left" style="font-size: 25px; font-weight: bold;">💬 Languages and Tools: &nbsp;</spam>
+    <p align="left">
+        <spam align="left">💬 Languages and Tools: &nbsp;</spam>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -51,7 +51,7 @@
 
 <br>
 
-### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/@todointerconectado)
+# 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/@todointerconectado)
 
 <a href='https://www.youtube.com/watch?v=LeaKOlriVCk&t=1055s' target='_blank'>
     <img width='30%' 
@@ -64,7 +64,7 @@
 
 <br>
 
-### 📹 Últimos vídeos en mi [canal de TikTok](https://tiktok.com/@todointerconectado)
+# 📹 Últimos vídeos en mi [canal de TikTok](https://tiktok.com/@todointerconectado)
     
 <a href='https://vm.tiktok.com/ZMYfUF9hT/' target='_blank'>
     <img width='20%'
@@ -79,7 +79,7 @@
     src='img/tiktok/virtualizacion.png'
     alt='ACTIVAR la VIRTUALIZACIÓN en la BIOS Windows 10/11' /></a>
 
-### 📈 Estadisticas de los lenguages más usados
+# 📈 Estadisticas de los lenguages más usados
 
 <p>
     <img align="center" 
