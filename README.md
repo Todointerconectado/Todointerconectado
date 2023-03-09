@@ -31,7 +31,9 @@
     <a href="https://www.tiktok.com/@todointerconectado" target="_blank">
         <img align="center" src="img/tik_tok.png" alt="TikTok" height="30" width="40" /></a>
     <a href="https://instagram.com/franciscocarusso" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></p>
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+    <a href="https://platzi.com/p/franciscoCarusso/"><img src="./img/Platzi-Certifications-brightgreen.svg" /></a>
+</p>
 
 <hr>
 <br>
