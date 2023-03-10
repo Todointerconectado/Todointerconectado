@@ -10,26 +10,10 @@
     </h2>
 </p>
 
-
-<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=franciscocarusso" 
-target="_blank"
-style="
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding: 7px;
-    text-align: center;
-    outline: none;
-    text-decoration: none !important;
-    color: #ffffff !important;
-    width: 200px;
-    height: 32px;
-    border-radius: 16px;
-    background-color: #0A66C2;
-    font-family: SF Pro Text, Helvetica, sans-serif;
-    "
->Follow on LinkedIn</a>
-
+<p align="center">
+    <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=franciscocarusso" target="_blank">
+    <img align="center" src="./img/Follows LinKedin.svg" alt="LinKedin" height="30" width="40" /></a>
+</p>
 
 ```javascript
     let saludos = [
@@ -45,7 +29,7 @@ style="
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://todointerconectado.com" target="_blank">
         <img align="center" src="img/TIC.png" alt="https://todointerconectado.com" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/franciscocarusso/" target="_blank">
+    <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=franciscocarusso" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinKedin" height="30" width="40" /></a>
     <a href="https://www.youtube.com/@todointerconectado" target="_blank">
         <img align="center" src="img/youtube.png" alt="YouTube" height="30" width="40" /></a>
