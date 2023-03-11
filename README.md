@@ -1,14 +1,21 @@
 <p align="center" width="300">
-    <img align="center"
-     width="200"
-     src="img/perfil.png"/>
+    <a href="https://github.com/Todointerconectado">
+        <img align="center" width="200" src="img/perfil.png"/>
+    </a>
     <h2 align="center">
-        ¡Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">! Soy Francisco Carusso 👨🏻‍💻
-        <p>
+        ¡Hey 
+        <a href="https://github.com/Todointerconectado">
+            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+        </a>
+        ! Soy Francisco Carusso 👨🏻‍💻
+        <a href="https://github.com/Todointerconectado">
             <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Jetbrain+Mono&color=76F78C&lines=A+passionate+frontend+Student;Always+learning+new+things">
-        </p>
+        </a>
     </h2>
 </p>
+
+<a align="center" href="https://platzi.com/p/franciscoCarusso/">
+<img src="./img/Platzi-Certifications-brightgreen.svg"/></a>
 
 ```javascript
     let saludos = [
@@ -20,9 +27,6 @@
         console.log(saludo);
     }
 ```
-
-<a href="https://platzi.com/p/franciscoCarusso/">
-<img src="./img/Platzi-Certifications-brightgreen.svg"/></a>
 
 <table align="center">
   <tr>
@@ -53,61 +57,64 @@
 
 <p align="center">
     <a href="https://github.com/Todointerconectado" target='_black'>
-    <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/></a>
+    <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/></a>
 <p>
 
 ## <h3 align="left">Languages and Tools: </h3>
 
 <table align="center">
-  <tr>
-    <td>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  </a>
-    </td>
-    <td>
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="/img/vscode-original.svg" alt="VSCode" width="40" height="40"/>  </a>
-    </td>
-    <td>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a>
-    </td>
-    <td>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  </a>
-    </td>
-    <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </a>
-    </td>
-    <td>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
-    </td>
-    <td>
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>  </a>
-    </td>
-    <td>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  </a>
-    </td>
-    <td>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  </a>
-    </td>
-  </tr>
+    <tr>
+        <td>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  </a>
+        </td>
+        <td>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="/img/vscode-original.svg" alt="VSCode" width="40" height="40"/>  </a>
+        </td>
+        <td>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a>
+        </td>
+        <td>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  </a>
+        </td>
+        <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
+        </td>
+        <td>
+        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>  </a>
+        </td>
+        <td>
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  </a>
+        </td>
+        <td>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  </a>
+        </td>
+    </tr>
 </table>
 
 <br>
 
-* `👨🏼‍🎓` [Primeros pasos en JavaScript](https://github.com/Todointerconectado/basicojavascript) <a href="https://github.com/Todointerconectado/basicojavascript" target="_blank"> <img align="center" src="img/insigniaJavascript.svg" alt="https://github.com/Todointerconectado/basicojavascript" ></a>
+* 👨🏼‍🎓 [Primeros pasos en](https://github.com/Todointerconectado/basicojavascript)] <a href="https://github.com/Todointerconectado/basicojavascript" target="_blank"> <img align="center" src="img/insigniaJavascript.svg" alt="https://github.com/Todointerconectado/basicojavascript" ></a>
 
 <br>
+<hr>
 
-### Algunos vídeos en YouTube: [![Youtube Todointerconectado channel](/img/youtube.svg)](https://www.youtube.com/@todointerconectado)
+### Vídeos en YouTube: [![Youtube Todointerconectado channel](/img/youtube.svg)](https://www.youtube.com/@todointerconectado)
 
 <table style="width:30%">
     <tr>
         <td align="center">
             <a href='https://www.youtube.com/watch?v=LeaKOlriVCk&t=1055s' target='_blank'>
-                <img width='30%' src='img/youtubeTerminal.png' alt='Instalar WSL2 en Windows 10: CONFIGURAR UBUNTU 22.04'/></a>
+                <img src='img/youtubeTerminal.png' alt='Instalar WSL2 en Windows 10: CONFIGURAR UBUNTU 22.04'/></a>
             </a>
         </td>
         <td align="center">
             <a href='https://www.youtube.com/watch?v=VGONJt-d2Q4&t=4s' target='_blank'>
-                <img width='30%' src='img/yutubePantalla.jpg' alt='Ampliar la pantalla del escritorio al celular!' /></a>
+                <img src='img/yutubePantalla.jpg' alt='Ampliar la pantalla del escritorio al celular!' /></a>
             </a>
         </td>
     </tr>
@@ -121,36 +128,25 @@
     <tr>
         <td align="center">
             <a href='https://vm.tiktok.com/ZMYfUF9hT/' target='_blank'>
-                <img width='20%' src='img/tiktok/controlarPc.png' alt='CONTROLAR la PC con el Celular!!' />
+                <img src='img/tiktok/controlarPc.png' alt='CONTROLAR la PC con el Celular!!' />
             </a>
         </td>
         <td align="center">
             <a href='https://vm.tiktok.com/ZMYfU8hLq/' target='_blank'>
-                <img width='20%' src='img/tiktok/Desarrollador.png' alt='Como ACTIVAR la OPCIÓN DESARROLLADOR en el CELULAR' />
+                <img src='img/tiktok/Desarrollador.png' alt='Como ACTIVAR la OPCIÓN DESARROLLADOR en el CELULAR' />
             </a>
         </td>
         <td align="center">
             <a href='https://vm.tiktok.com/ZMYfUUmnf/' target='_blank'>
-                <img width='20%' src='img/tiktok/virtualizacion.png' alt='ACTIVAR la VIRTUALIZACIÓN en la BIOS Windows 10/11' />
+                <img src='img/tiktok/virtualizacion.png' alt='ACTIVAR la VIRTUALIZACIÓN en la BIOS Windows 10/11' />
             </a>
         </td>
     </tr>
 </table>
 
-<br>
 <hr> 
 
-<details>
-    <summary align="center">📊 Estadisticas de los lenguages más usados</summary>
-    <img align="left"  src="https://github-readme-stats.vercel.app/api?username=todointerconectado&show_icons=true&locale=en&layout=compact"
-    alt="todointerconectado"  width="400px"/> 
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=todointerconectado&show_icons=true&locale=en&layout=compact"
-    alt="todointerconectado" height="157px"/>
-</details>
-
-</hr>
-
-## Puedes apoyar mi trabajo haciendo `⭐ Star` en el repo o nominarme a "GitHub Star". ¡Gracias!
+### Puedes apoyar mi trabajo haciendo `⭐ Star` en el repo o nominarme a "GitHub Star". ¡Gracias!
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
@@ -163,3 +159,13 @@
 [![Email](/img/email.svg)](mailto:francisconicolascarusso@gmail.com)
 </br>
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/francarusso)
+
+<details>
+    <summary align="center">
+        <h3>📊 Estadisticas de los lenguages más usados</h3>
+    </summary>
+    <img align="left"  src="https://github-readme-stats.vercel.app/api?username=todointerconectado&show_icons=true&locale=en&layout=compact"
+    alt="todointerconectado"  width="400px"/> 
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=todointerconectado&show_icons=true&locale=en&layout=compact"
+    alt="todointerconectado" height="157px"/>
+</details>
