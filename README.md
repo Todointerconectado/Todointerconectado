@@ -21,19 +21,35 @@
     }
 ```
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://todointerconectado.com" target="_blank">
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://todointerconectado.com" target="_blank">
         <img align="center" src="img/TIC.png" alt="https://todointerconectado.com" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=franciscocarusso" target="_blank">
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=franciscocarusso" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinKedin" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/@todointerconectado" target="_blank">
+    </td>
+    <td>
+      <a href="https://www.youtube.com/@todointerconectado" target="_blank">
         <img align="center" src="img/youtube.png" alt="YouTube" height="30" width="40" /></a>
-    <a href="https://www.tiktok.com/@todointerconectado" target="_blank">
+    </td>
+    <td>
+      <a href="https://www.tiktok.com/@todointerconectado" target="_blank">
         <img align="center" src="img/tik_tok.png" alt="TikTok" height="30" width="40" /></a>
-    <a href="https://instagram.com/franciscocarusso" target="_blank">
+    </td>
+    <td>
+      <a href="https://instagram.com/franciscocarusso" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-    <a href="https://platzi.com/p/franciscoCarusso/"><img src="./img/Platzi-Certifications-brightgreen.svg" /></a>
-</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://platzi.com/p/franciscoCarusso/"><img src="./img/Platzi-Certifications-brightgreen.svg" /></a>
+    </td>
+  </tr>
+</table>
 
 <hr>
 <br>
@@ -43,61 +59,108 @@
 <p>
 
 
-<p align="left">
-    <p align="left">
-        <spam align="left">💬 Languages and Tools: &nbsp;</spam>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  </a>
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="/img/vscode-original.svg" alt="VSCode" width="40" height="40"/>  </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>  </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  </a>
-    </p>
-</p>
-
+<table align="center">
+  <tr>
+    <td>
+        <h3 align="left">💬 Languages and Tools: &nbsp;</h3>
+    </td>
+    <td>
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  </a>
+    </td>
+    <td>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="/img/vscode-original.svg" alt="VSCode" width="40" height="40"/>  </a>
+    </td>
+    <td>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a>
+    </td>
+    <td>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  </a>
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </a>
+    </td>
+    <td>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
+    </td>
+    <td>
+      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>  </a>
+    </td>
+    <td>
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  </a>
+    </td>
+    <td>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-# 👨🏼‍🎓 [Aprende los primeros pasos en JavaScript](https://github.com/Todointerconectado/basicojavascript) <a href="https://github.com/Todointerconectado/basicojavascript" target="_blank"> <img align="center" src="img/carpetaIconoJavascript.png" alt="https://github.com/Todointerconectado/basicojavascript" height="30" width="40"></a>
+### * `👨🏼‍🎓` [Primeros pasos en JavaScript](https://github.com/Todointerconectado/basicojavascript) 
+<a href="https://github.com/Todointerconectado/basicojavascript" target="_blank"> <img align="center" src="img/insigniaJavascript.svg" alt="https://github.com/Todointerconectado/basicojavascript" height="30" width="100"></a>
 
 <br>
 
-# 📹 Últimos vídeos en mi canal [![Youtube Todointerconectado channel](/img/youtube.svg)](https://www.youtube.com/@todointerconectado)
+### Algunos vídeos en YouTube: [![Youtube Todointerconectado channel](/img/youtube.svg)](https://www.youtube.com/@todointerconectado)
 
-<a href='https://www.youtube.com/watch?v=LeaKOlriVCk&t=1055s' target='_blank'>
-    <img width='30%' 
-    src='img/youtubeTerminal.png' 
-    alt='Instalar WSL2 en Windows 10: CONFIGURAR UBUNTU 22.04'/></a>
-<a href='https://www.youtube.com/watch?v=VGONJt-d2Q4&t=4s' target='_blank'>
-    <img width='30%' 
-    src='img/yutubePantalla.jpg' 
-    alt='Ampliar la pantalla del escritorio al celular!' /></a>
+<table style="width:100%">
+    <tr>
+        <td>
+            <a href='https://www.youtube.com/watch?v=LeaKOlriVCk&t=1055s' target='_blank'>
+                <img width='30%' src='img/youtubeTerminal.png' alt='Instalar WSL2 en Windows 10: CONFIGURAR UBUNTU 22.04'/></a>
+            </a>
+        </td>
+        <td>
+            <a href='https://www.youtube.com/watch?v=VGONJt-d2Q4&t=4s' target='_blank'>
+                <img width='30%' src='img/yutubePantalla.jpg' alt='Ampliar la pantalla del escritorio al celular!' /></a>
+            </a>
+        </td>
+    </tr>
+</table>
 
 <br>
 
-# 📹 Últimos vídeos en mi [canal de TikTok](https://tiktok.com/@todointerconectado)
-    
-<a href='https://vm.tiktok.com/ZMYfUF9hT/' target='_blank'>
-    <img width='20%'
-    src='img/tiktok/controlarPc.png'
-    alt='CONTROLAR la PC con el Celular!!' /></a>
-<a href='https://vm.tiktok.com/ZMYfU8hLq/' target='_blank'>
-    <img width='20%'
-    src='img/tiktok/Desarrollador.png'
-    alt='Como ACTIVAR la OPCIÓN DESARROLLADOR en el CELULAR' /></a>
-<a href='https://vm.tiktok.com/ZMYfUUmnf/' target='_blank'>
-    <img width='20%'
-    src='img/tiktok/virtualizacion.png'
-    alt='ACTIVAR la VIRTUALIZACIÓN en la BIOS Windows 10/11' /></a>
+### Algunos vídeos en [TikTok](https://tiktok.com/@todointerconectado)
+
+<table style="width:100%">
+    <tr>
+        <td>
+            <a href='https://vm.tiktok.com/ZMYfUF9hT/' target='_blank'>
+                <img width='20%' src='img/tiktok/controlarPc.png' alt='CONTROLAR la PC con el Celular!!' />
+            </a>
+        </td>
+        <td>
+            <a href='https://vm.tiktok.com/ZMYfU8hLq/' target='_blank'>
+                <img width='20%' src='img/tiktok/Desarrollador.png' alt='Como ACTIVAR la OPCIÓN DESARROLLADOR en el CELULAR' />
+            </a>
+        </td>
+        <td>
+            <a href='https://vm.tiktok.com/ZMYfUUmnf/' target='_blank'>
+                <img width='20%' src='img/tiktok/virtualizacion.png' alt='ACTIVAR la VIRTUALIZACIÓN en la BIOS Windows 10/11' />
+            </a>
+        </td>
+    </tr>
+</table>
 
 <br>
 <hr> 
-<h3 align="center">📊 Estadisticas de los lenguages más usados</h3>
 
-<!-- <br/> -->
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=todointerconectado&show_icons=true&locale=en&layout=compact" alt="todointerconectado"  width="400px"/> 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=todointerconectado&show_icons=true&locale=en&layout=compact" alt="todointerconectado" height="157px"/>
+<details>
+    <summary align="center">📊 Estadisticas de los lenguages más usados</summary>
+    <img align="left"  src="https://github-readme-stats.vercel.app/api?username=todointerconectado&show_icons=true&locale=en&layout=compact"
+    alt="todointerconectado"  width="400px"/> 
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=todointerconectado&show_icons=true&locale=en&layout=compact"
+    alt="todointerconectado" height="157px"/>
+</details>
 
+
+#### Puedes apoyar mi trabajo haciendo "⭐ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+
+
+## Contacto y apoyo:
+
+[![Email](/img/email.svg)](mailto:francisconicolascarusso@gmail.com)
+</br>
+[![BuyMeACoffee](./img/email.svg)](https://www.buymeacoffee.com/francarusso)
