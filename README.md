@@ -60,7 +60,7 @@
     <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/></a>
 <p>
 
-## <h3 align="left">Languages and Tools: </h3>
+## <h3 align="center">Languages and Tools: </h3>
 
 <table align="center">
     <tr>
@@ -101,8 +101,6 @@
 <br>
 
 ## 👨🏼‍🎓 [Primeros pasos en](https://github.com/Todointerconectado/basicojavascript) <a href="https://github.com/Todointerconectado/basicojavascript" target="_blank"> <img src="img/insigniaJavascript.svg" alt="https://github.com/Todointerconectado/basicojavascript" ></a>
-
-<br><hr>
 
 ### Vídeos en YouTube: [![Youtube Todointerconectado channel](/img/youtube.svg)](https://www.youtube.com/@todointerconectado)
 
