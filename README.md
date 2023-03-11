@@ -8,14 +8,14 @@
             <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
         </a>
         ! Soy Francisco Carusso 👨🏻‍💻
-        <a href="https://github.com/Todointerconectado">
+        <br>
+        <a align="center" href="https://github.com/Todointerconectado">
             <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Jetbrain+Mono&color=76F78C&lines=A+passionate+frontend+Student;Always+learning+new+things">
         </a>
     </h2>
 </p>
 
-<a align="center" href="https://platzi.com/p/franciscoCarusso/">
-<img src="./img/Platzi-Certifications-brightgreen.svg"/></a>
+[![Insignia Certification](./img/Platzi-Certifications-brightgreen.svg)](https://platzi.com/p/franciscoCarusso/)
 
 ```javascript
     let saludos = [
@@ -55,14 +55,14 @@
 
 <hr>
 
-<p align="center">
+<p align="center" width="400" height="300">
     <a href="https://github.com/Todointerconectado" target='_black'>
-    <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/></a>
+    <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/></a>
 <p>
 
 ## <h3 align="left">Languages and Tools: </h3>
 
-<table align="center">
+<table align="left">
     <tr>
         <td>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  </a>
@@ -98,7 +98,7 @@
 
 <br>
 
-* 👨🏼‍🎓 [Primeros pasos en](https://github.com/Todointerconectado/basicojavascript)] <a href="https://github.com/Todointerconectado/basicojavascript" target="_blank"> <img align="center" src="img/insigniaJavascript.svg" alt="https://github.com/Todointerconectado/basicojavascript" ></a>
+* 👨🏼‍🎓 [Primeros pasos en](https://github.com/Todointerconectado/basicojavascript) <a href="https://github.com/Todointerconectado/basicojavascript" target="_blank"> <img align="center" src="img/insigniaJavascript.svg" alt="https://github.com/Todointerconectado/basicojavascript" ></a>
 
 <br>
 <hr>
