@@ -98,7 +98,9 @@
 
 <br>
 
-### 👨🏼‍🎓 [Primeros pasos en](https://github.com/Todointerconectado/basicojavascript) <a href="https://github.com/Todointerconectado/basicojavascript" target="_blank"> <img src="img/insigniaJavascript.svg" alt="https://github.com/Todointerconectado/basicojavascript" ></a>
+### <h3 align="left">
+👨🏼‍🎓 [Primeros pasos en](https://github.com/Todointerconectado/basicojavascript) <a href="https://github.com/Todointerconectado/basicojavascript" target="_blank"> <img src="img/insigniaJavascript.svg" alt="https://github.com/Todointerconectado/basicojavascript" ></a>
+</h3>
 
 <br><hr>
 
