@@ -96,7 +96,7 @@
     </tr>
 </table>
 
-<br><br>
+
 
 # 👨🏼‍🎓 [Primeros pasos en](https://github.com/Todointerconectado/basicojavascript) <a href="https://github.com/Todointerconectado/basicojavascript" target="_blank"> <img src="img/insigniaJavascript.svg" alt="https://github.com/Todointerconectado/basicojavascript" ></a>
 
