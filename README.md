@@ -21,6 +21,9 @@
     }
 ```
 
+<a href="https://platzi.com/p/franciscoCarusso/">
+<img src="./img/Platzi-Certifications-brightgreen.svg"/></a>
+
 <table align="center">
   <tr>
     <td>
@@ -44,26 +47,19 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://platzi.com/p/franciscoCarusso/"><img src="./img/Platzi-Certifications-brightgreen.svg" /></a>
-    </td>
-  </tr>
 </table>
 
 <hr>
-<br>
 
 <p align="center">
-    <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
+    <a href="https://github.com/Todointerconectado" target='_black'>
+    <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/></a>
 <p>
 
+## <h3 align="left">Languages and Tools: </h3>
 
 <table align="center">
   <tr>
-    <td>
-        <h3 align="left">💬 Languages and Tools: &nbsp;</h3>
-    </td>
     <td>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  </a>
     </td>
@@ -96,21 +92,20 @@
 
 <br>
 
-### * `👨🏼‍🎓` [Primeros pasos en JavaScript](https://github.com/Todointerconectado/basicojavascript) 
-<a href="https://github.com/Todointerconectado/basicojavascript" target="_blank"> <img align="center" src="img/insigniaJavascript.svg" alt="https://github.com/Todointerconectado/basicojavascript" height="30" width="100"></a>
+* `👨🏼‍🎓` [Primeros pasos en JavaScript](https://github.com/Todointerconectado/basicojavascript) <a href="https://github.com/Todointerconectado/basicojavascript" target="_blank"> <img align="center" src="img/insigniaJavascript.svg" alt="https://github.com/Todointerconectado/basicojavascript" ></a>
 
 <br>
 
 ### Algunos vídeos en YouTube: [![Youtube Todointerconectado channel](/img/youtube.svg)](https://www.youtube.com/@todointerconectado)
 
-<table style="width:100%">
+<table style="width:30%">
     <tr>
-        <td>
+        <td align="center">
             <a href='https://www.youtube.com/watch?v=LeaKOlriVCk&t=1055s' target='_blank'>
                 <img width='30%' src='img/youtubeTerminal.png' alt='Instalar WSL2 en Windows 10: CONFIGURAR UBUNTU 22.04'/></a>
             </a>
         </td>
-        <td>
+        <td align="center">
             <a href='https://www.youtube.com/watch?v=VGONJt-d2Q4&t=4s' target='_blank'>
                 <img width='30%' src='img/yutubePantalla.jpg' alt='Ampliar la pantalla del escritorio al celular!' /></a>
             </a>
@@ -122,19 +117,19 @@
 
 ### Algunos vídeos en [TikTok](https://tiktok.com/@todointerconectado)
 
-<table style="width:100%">
+<table style="width:20%">
     <tr>
-        <td>
+        <td align="center">
             <a href='https://vm.tiktok.com/ZMYfUF9hT/' target='_blank'>
                 <img width='20%' src='img/tiktok/controlarPc.png' alt='CONTROLAR la PC con el Celular!!' />
             </a>
         </td>
-        <td>
+        <td align="center">
             <a href='https://vm.tiktok.com/ZMYfU8hLq/' target='_blank'>
                 <img width='20%' src='img/tiktok/Desarrollador.png' alt='Como ACTIVAR la OPCIÓN DESARROLLADOR en el CELULAR' />
             </a>
         </td>
-        <td>
+        <td align="center">
             <a href='https://vm.tiktok.com/ZMYfUUmnf/' target='_blank'>
                 <img width='20%' src='img/tiktok/virtualizacion.png' alt='ACTIVAR la VIRTUALIZACIÓN en la BIOS Windows 10/11' />
             </a>
@@ -153,14 +148,18 @@
     alt="todointerconectado" height="157px"/>
 </details>
 
+</hr>
 
-#### Puedes apoyar mi trabajo haciendo "⭐ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+## Puedes apoyar mi trabajo haciendo `⭐ Star` en el repo o nominarme a "GitHub Star". ¡Gracias!
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
+</hr>
 
 ## Contacto y apoyo:
 
+[![web](/img/web.svg)](https://todointerconectado.com)
+</br>
 [![Email](/img/email.svg)](mailto:francisconicolascarusso@gmail.com)
 </br>
-[![BuyMeACoffee](./img/email.svg)](https://www.buymeacoffee.com/francarusso)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/francarusso)
