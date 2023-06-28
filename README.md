@@ -15,7 +15,97 @@
     </h2>
 </p>
 
-[![Insignia Certification](./img/Platzi-Certifications-brightgreen.svg)](https://platzi.com/p/franciscoCarusso/)
+<details>
+<summary align="left">
+
+[![Insignia Certification](./img/Platzi-Certifications-brightgreen.svg)](https://platzi.com/p/franciscoCarusso/) [![Insignias Microsoft Learn](https://img.shields.io/badge/Insignias-Microsoft_Learn-0b7cbd?style=badge&logo=Microsoft&logoColor=white&labelColor=101010)](#)
+
+</summary>
+
+<table align="center">
+    <tr>
+        <td>
+            <h2 align="center" style="font-size: 19px">
+                👇🏽 Rutas 👇🏽
+            </h2>
+        </td>
+        <td colspan="7">
+            <h2 align="center" style="font-size: 19px">
+                👇🏽 Módulos 👇🏽
+            </h2>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" style="background: #3a8fbc;">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.build-community-driven-projects-github.trophy?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/build-community-driven-projects-github.svg" alt="Compilación de proyectos de software controlados por la comunidad en GitHub" width="50" height="50"/>  
+            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
+                Compilación de proyectos de software controlados por la comunidad en GitHub
+            </p>
+        </a>
+        </td>
+        <td align="center">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.introduction-to-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg" alt="Introducción a GitHub" width="50" height="50"/>
+            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
+                Introducción a GitHub
+            </p>
+        </a>
+        </td>
+        <td align="center">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.manage-innersource-program-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/github/manage-innersource-program-github.svg" alt="Administración de un programa de InnerSource mediante GitHub" width="50" height="50"/>
+            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
+                Administración de un programa de InnerSource mediante GitHub
+            </p>
+        </a>
+        </td>
+        <td align="center">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.create-open-source-program-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/create-open-source-program-github.svg" alt="Creación de un programa de código abierto mediante procedimientos recomendados de GitHub" width="50" height="50"/>
+            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
+                Creación de un programa de código abierto mediante procedimientos recomendados de GitHub
+            </p>
+        </a>
+        </td>
+        <td align="center">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.upload-project-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/upload-project-github.svg" alt="Carga de un proyecto mediante procedimientos recomendados de GitHub" width="50" height="50"/>
+            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
+                Carga de un proyecto mediante procedimientos recomendados de GitHub
+            </p>
+        </a>
+        </td>
+        <td align="center">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.migrate-repository-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/migrate-repository-github.svg" alt="Migración de un repositorio mediante procedimientos recomendados de GitHub" width="50" height="50"/>
+            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
+                Migración de un repositorio mediante procedimientos recomendados de GitHub
+            </p>
+        </a>
+        </td>
+        <td align="center">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.maintain-secure-repository-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/maintain-secure-repository-github.svg" alt="Mantenimiento de un repositorio seguro mediante procedimientos recomendados de GitHub" width="50" height="50"/>
+            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
+                Mantenimiento de un repositorio seguro mediante procedimientos recomendados de GitHub
+            </p>
+        </a>
+        </td>
+        <td align="center">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.contribute-opensource.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/contribute-to-an-open-source-project-on-github.svg" alt="Contribución a un proyecto de código abierto en GitHub" width="50" height="50"/>
+            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
+                Contribución a un proyecto de código abierto en GitHub
+            </p>
+        </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" style="background: #3a8fbc;">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.manage-project-lifecycle-github.trophy?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/manage-project-lifecycle-github.svg" alt="Administración del ciclo de vida de los proyectos en GitHub" width="50" height="50"/>
+            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
+                Administración del ciclo de vida de los proyectos en GitHub
+            </p>
+        </a>
+        </td>
+    </tr>
+</table>
+
+</details>
+
 
 ```javascript
     let saludos = [
@@ -68,7 +158,7 @@
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  </a>
         </td>
         <td>
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="/img/vscode-original.svg" alt="VSCode" width="40" height="40"/>  </a>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="img/vscode-original.svg" alt="VSCode" width="40" height="40"/>  </a>
         </td>
         <td>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a>
@@ -155,8 +245,10 @@
 
 [![web](/img/web.svg)](https://todointerconectado.com)
 </br>
+
 [![Email](/img/email.svg)](mailto:francisconicolascarusso@gmail.com)
 </br>
+
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/francarusso)
 
 <details>
