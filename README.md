@@ -15,6 +15,15 @@
     </h2>
 </p>
 
+> [![Tabla Microsoft](./tabla-microsoft.svg)](#)
+
+<div align="left">
+    <img src="./tabla-microsoft.svg" 
+        width="300" height="40" 
+        alt="css-in-readme"
+    >
+</div>
+
 <details>
 <summary align="left">
 
