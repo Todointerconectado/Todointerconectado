@@ -24,19 +24,19 @@
 
 <table align="center">
     <tr>
-        <td colspan="3">
+        <td colspan="2">
             <h4 align="center">
-                👇🏽 Rutas 👇🏽
+                Rutas
             </h4>
         </td>
         <td colspan="7">
             <h4 align="center">
-                👇🏽 Módulos 👇🏽
+                Módulos
             </h4>
         </td>
     </tr>
     <tr>
-        <td align="center" colspan="3">
+        <td align="center" colspan="2">
         <a href="https://learn.microsoft.com/es-es/training/achievements/learn.build-community-driven-projects-github.trophy?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/build-community-driven-projects-github.svg" alt="Compilación de proyectos de software controlados por la comunidad en GitHub" width="50px" height="50px"/></a>
         </td>
         <td align="center">
