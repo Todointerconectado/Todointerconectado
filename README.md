@@ -24,7 +24,7 @@
 
 <table align="center">
     <tr>
-        <td>
+        <td colspan="3">
             <h4 align="center">
                 👇🏽 Rutas 👇🏽
             </h4>
@@ -36,70 +36,34 @@
         </td>
     </tr>
     <tr>
-        <td align="center">
-        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.build-community-driven-projects-github.trophy?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/build-community-driven-projects-github.svg" alt="Compilación de proyectos de software controlados por la comunidad en GitHub" width="50px" height="50px"/>
-            <p width="140px">
-                Compilación de proyectos de software controlados por la comunidad en GitHub
-            </p>
-        </a>
+        <td align="center" colspan="3">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.build-community-driven-projects-github.trophy?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/build-community-driven-projects-github.svg" alt="Compilación de proyectos de software controlados por la comunidad en GitHub" width="50px" height="50px"/></a>
         </td>
         <td align="center">
-        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.introduction-to-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg" alt="Introducción a GitHub" width="50" height="50"/>
-            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
-                Introducción a GitHub
-            </p>
-        </a>
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.introduction-to-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg" alt="Introducción a GitHub" width="50" height="50"/></a>
         </td>
         <td align="center">
-        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.manage-innersource-program-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/github/manage-innersource-program-github.svg" alt="Administración de un programa de InnerSource mediante GitHub" width="50" height="50"/>
-            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
-                Administración de un programa de InnerSource mediante GitHub
-            </p>
-        </a>
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.manage-innersource-program-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/github/manage-innersource-program-github.svg" alt="Administración de un programa de InnerSource mediante GitHub" width="50" height="50"/></a>
         </td>
         <td align="center">
-        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.create-open-source-program-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/create-open-source-program-github.svg" alt="Creación de un programa de código abierto mediante procedimientos recomendados de GitHub" width="50" height="50"/>
-            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
-                Creación de un programa de código abierto mediante procedimientos recomendados de GitHub
-            </p>
-        </a>
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.create-open-source-program-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/create-open-source-program-github.svg" alt="Creación de un programa de código abierto mediante procedimientos recomendados de GitHub" width="50" height="50"/></a>
         </td>
         <td align="center">
-        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.upload-project-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/upload-project-github.svg" alt="Carga de un proyecto mediante procedimientos recomendados de GitHub" width="50" height="50"/>
-            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
-                Carga de un proyecto mediante procedimientos recomendados de GitHub
-            </p>
-        </a>
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.upload-project-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/upload-project-github.svg" alt="Carga de un proyecto mediante procedimientos recomendados de GitHub" width="50" height="50"/></a>
         </td>
         <td align="center">
-        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.migrate-repository-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/migrate-repository-github.svg" alt="Migración de un repositorio mediante procedimientos recomendados de GitHub" width="50" height="50"/>
-            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
-                Migración de un repositorio mediante procedimientos recomendados de GitHub
-            </p>
-        </a>
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.migrate-repository-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/migrate-repository-github.svg" alt="Migración de un repositorio mediante procedimientos recomendados de GitHub" width="50" height="50"/></a>
         </td>
         <td align="center">
-        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.maintain-secure-repository-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/maintain-secure-repository-github.svg" alt="Mantenimiento de un repositorio seguro mediante procedimientos recomendados de GitHub" width="50" height="50"/>
-            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
-                Mantenimiento de un repositorio seguro mediante procedimientos recomendados de GitHub
-            </p>
-        </a>
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.maintain-secure-repository-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/maintain-secure-repository-github.svg" alt="Mantenimiento de un repositorio seguro mediante procedimientos recomendados de GitHub" width="50" height="50"/></a>
         </td>
         <td align="center">
-        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.contribute-opensource.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/contribute-to-an-open-source-project-on-github.svg" alt="Contribución a un proyecto de código abierto en GitHub" width="50" height="50"/>
-            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
-                Contribución a un proyecto de código abierto en GitHub
-            </p>
-        </a>
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.contribute-opensource.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/contribute-to-an-open-source-project-on-github.svg" alt="Contribución a un proyecto de código abierto en GitHub" width="50" height="50"/></a>
         </td>
     </tr>
     <tr>
         <td align="center">
-        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.manage-project-lifecycle-github.trophy?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/manage-project-lifecycle-github.svg" alt="Administración del ciclo de vida de los proyectos en GitHub" width="50" height="50"/>
-            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
-                Administración del ciclo de vida de los proyectos en GitHub
-            </p>
-        </a>
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.manage-project-lifecycle-github.trophy?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/manage-project-lifecycle-github.svg" alt="Administración del ciclo de vida de los proyectos en GitHub" width="50" height="50"/></a>
         </td>
     </tr>
 </table>
@@ -110,7 +74,7 @@
 ```javascript
     let saludos = [
         '     Soy un apasionado del Frontend',
-        'Desarrolle la comunidad @todointerconectado',
+        ' Desarrolle la comunidad @todointerconectado',
         '        ¡Revisa mi contenido 👇!'           ];
 
     for(let saludo of saludos) {
