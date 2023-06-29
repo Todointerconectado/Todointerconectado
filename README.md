@@ -15,15 +15,6 @@
     </h2>
 </p>
 
-> [![Tabla Microsoft](./tabla-microsoft.svg)](#)
-
-<div align="left">
-    <img src="./tabla-microsoft.svg" 
-        width="300" height="40" 
-        alt="css-in-readme"
-    >
-</div>
-
 <details>
 <summary align="left">
 
@@ -34,22 +25,22 @@
 <table align="center">
     <tr>
         <td>
-            <h2 align="center" style="font-size: 19px">
+            <h4 align="center">
                 👇🏽 Rutas 👇🏽
-            </h2>
+            </h4>
         </td>
         <td colspan="7">
-            <h2 align="center" style="font-size: 19px">
+            <h4 align="center">
                 👇🏽 Módulos 👇🏽
-            </h2>
+            </h4>
         </td>
     </tr>
     <tr>
-        <td align="center" style="background: #3a8fbc;">
-        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.build-community-driven-projects-github.trophy?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/build-community-driven-projects-github.svg" alt="Compilación de proyectos de software controlados por la comunidad en GitHub" width="50" height="50"/>  
-            <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
+        <td align="center">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.build-community-driven-projects-github.trophy?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/build-community-driven-projects-github.svg" alt="Compilación de proyectos de software controlados por la comunidad en GitHub" width="50px" height="50px"/>
+            <h4 style=" width:140px;">
                 Compilación de proyectos de software controlados por la comunidad en GitHub
-            </p>
+            </h4>
         </a>
         </td>
         <td align="center">
@@ -103,7 +94,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center" style="background: #3a8fbc;">
+        <td align="center">
         <a href="https://learn.microsoft.com/es-es/training/achievements/learn.manage-project-lifecycle-github.trophy?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/manage-project-lifecycle-github.svg" alt="Administración del ciclo de vida de los proyectos en GitHub" width="50" height="50"/>
             <p style="font-size:10px; width:100px; font-decoration: none; color: white;">
                 Administración del ciclo de vida de los proyectos en GitHub
