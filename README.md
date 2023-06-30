@@ -24,26 +24,26 @@
 
 <table id="tabla_microsoft" align="center">
     <tr>
-        <td colspan="2">
+        <td colspan="1">
             <h4 align="center">
                 Rutas
             </h4>
         </td>
-        <td colspan="16">
+        <td colspan="9">
             <h4 align="center">
                 Módulos
             </h4>
         </td>
     </tr>
     <tr id="1" >
-        <th align="center" colspan="2">
+        <th align="center" colspan="1">
         <a href="https://learn.microsoft.com/es-es/training/achievements/learn.azure.cna-architect-modern-apps.trophy?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/create-cloud-native-apps-with-azure-open-source.svg" alt="Creación de aplicaciones nativas en la nube con Azure y software de código abierto" width="50" height="50"/></a>
         </th>
         <td align="center">
         <a href="https://learn.microsoft.com/es-es/training/achievements/learn.azure.intro-to-cloud-native-apps.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer">
             <img src="https://learn.microsoft.com/es-es/training/achievements/intro-to-cloud-native-apps.svg" alt="Introducción a las aplicaciones nativas de nube en Azure" width="50" height="50"/></a>
         </td>
-        <td align="center">
+        <td align="center" colspan="2">
         <a href="https://learn.microsoft.com/es-es/training/achievements/learn.azure.cna-orchestrate-containers.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer">
             <img src="https://learn.microsoft.com/es-es/training/achievements/cloud-native-apps-orchestrate-containers.svg" alt="Orquestación de contenedores para aplicaciones nativas de nube con AKS" width="50" height="50"/></a>
         </td>
@@ -63,137 +63,104 @@
         <a href="https://learn.microsoft.com/es-es/training/achievements/learn.azure.cna-deploy-maintain-cloud-native-apps.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer">
             <img src="https://learn.microsoft.com/es-es/training/achievements/cna-deploy-maintain.svg" alt="Implementación y mantenimiento de aplicaciones nativas de nube con Acciones de GitHub y Azure Pipelines" width="50" height="50"/></a>
         </td>
-        <td align="center">
+        <td align="center" colspan="2">
         <a href="https://learn.microsoft.com/es-es/training/achievements/learn.azure.cna-set-up-apps-use-scale.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer">
             <img src="https://learn.microsoft.com/es-es/training/achievements/cna-set-up-azure-ad-use-scale.svg" alt="Autenticación y autorización de aplicaciones multiinquilino mediante Azure Active Directory (Azure AD)" width="50" height="50"/></a>
         </td>
     </tr>
     <tr id="2">
-        <th align="center" colspan="2">
+        <th align="center" colspan="1">
         <a href="https://learn.microsoft.com/es-es/training/achievements/learn.build-community-driven-projects-github.trophy?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/build-community-driven-projects-github.svg" alt="Compilación de proyectos de software controlados por la comunidad en GitHub" width="50px" height="50px"/></a>
         </th>
-        <td align="center" rowspan="3">
-        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.introduction-to-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg" alt="Introducción a GitHub" width="50" height="50"/></a>
+        <td align="center">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.create-open-source-program-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/create-open-source-program-github.svg" alt="Creación de un programa de código abierto mediante procedimientos recomendados de GitHub" width="50" height="50"/></a>
+        </td>
+        <td align="center" colspan="2">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.contribute-opensource.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/contribute-to-an-open-source-project-on-github.svg" alt="Contribución a un proyecto de código abierto en GitHub" width="50" height="50"/></a>
         </td>
         <td align="center" rowspan="2">
         <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.migrate-repository-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/migrate-repository-github.svg" alt="Migración de un repositorio mediante procedimientos recomendados de GitHub" width="50" height="50"/></a>
         </td>
-        <td align="center">
+        <td align="center" rowspan="2">
         <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.manage-innersource-program-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/github/manage-innersource-program-github.svg" alt="Administración de un programa de InnerSource mediante GitHub" width="50" height="50"/></a>
         </td>
-        <td align="center">
-        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.create-open-source-program-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/create-open-source-program-github.svg" alt="Creación de un programa de código abierto mediante procedimientos recomendados de GitHub" width="50" height="50"/></a>
-        </td>
-        <td align="center">
-        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.upload-project-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/upload-project-github.svg" alt="Carga de un proyecto mediante procedimientos recomendados de GitHub" width="50" height="50"/></a>
-        </td>
-        <td align="center">
+        <td align="center" rowspan="2">
         <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.maintain-secure-repository-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/maintain-secure-repository-github.svg" alt="Mantenimiento de un repositorio seguro mediante procedimientos recomendados de GitHub" width="50" height="50"/></a>
         </td>
-        <td align="center">
-        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.contribute-opensource.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/contribute-to-an-open-source-project-on-github.svg" alt="Contribución a un proyecto de código abierto en GitHub" width="50" height="50"/></a>
+        <td align="center" rowspan="2" colspan="2">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.upload-project-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/upload-project-github.svg" alt="Carga de un proyecto mediante procedimientos recomendados de GitHub" width="50" height="50"/></a>
+        </td>
+        <td align="center" rowspan="4">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.introduction-to-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg" alt="Introducción a GitHub" width="50" height="50"/></a>
         </td>
     </tr>
     <tr id="3">
-        <th align="center" colspan="2">
+        <th align="center" rowspan="2" colspan="1">
         <a href="https://learn.microsoft.com/es-es/training/achievements/az-400-manage-source-control.trophy?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/az-400-manage-source-control.svg" alt="Administración del control de código fuente" width="50" height="50"/></a>
         </th>
         <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
-            <img src="https://learn.microsoft.com/es-es/training/achievements/github/manage-changes-pull-requests-github.svg" 
-            alt="" width="50" height="50"/></a>
-        </td>
-        <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
-            <img src="https://learn.microsoft.com/es-es/training/achievements/github/upload-project-github.svg" 
-            alt="" width="50" height="50"/></a>
-        </td>
-        <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
-            <img src="https://learn.microsoft.com/es-es/training/achievements/github/resolve-merge-conflicts-github.svg" 
-            alt="" width="50" height="50"/></a>
-        </td>
-        <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
-            <img src="https://learn.microsoft.com/es-es/training/achievements/github/search-organize-repository-history-github.svg" 
-            alt="" width="50" height="50"/></a>
-        </td>
-        <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
-            <img src="https://learn.microsoft.com/es-es/training/achievements/github/manage-innersource-program-github.svg" 
-            alt="" width="50" height="50"/></a>
-        </td>
-        <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
-            <img src="https://learn.microsoft.com/es-es/training/achievements/github/communicate-using-markdown.svg" 
-            alt="" width="50" height="50"/></a>
-        </td>
-        <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
-            <img src="https://learn.microsoft.com/es-es/training/achievements/github/maintain-secure-repository-github.svg" 
-            alt="" width="50" height="50"/></a>
-        </td>
-        <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
-            <img src="https://learn.microsoft.com/es-es/training/achievements/github/automate-devops-github-apps.svg" 
-            alt="" width="50" height="50"/></a>
-        </td>
-        <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
-            <img src="https://learn.microsoft.com/es-es/training/achievements/github/automate-github-using-github-script.svg" 
-            alt="" width="50" height="50"/></a>
-        </td>
-        <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
-            <img src="https://learn.microsoft.com/es-es/training/achievements/github/release-based-workflow-github.svg" 
-            alt="" width="50" height="50"/></a>
-        </td>
-        <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
-            <img src="https://learn.microsoft.com/es-es/training/achievements/github/github-actions-ci.svg" 
-            alt="" width="50" height="50"/></a>
-        </td>
-        <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.github-actions-cd.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer">
             <img src="https://learn.microsoft.com/es-es/training/achievements/github/github-actions-cd.svg" 
-            alt="" width="50" height="50"/></a>
+            alt="Creación e implementación de aplicaciones en Azure mediante Acciones de GitHub" width="50" height="50"/></a>
         </td>
         <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.azdo.implement-code-workflow.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer">
             <img src="https://learn.microsoft.com/es-es/training/achievements/azure-devops/implement-a-code-workflow-in-your-build-pipeline.svg" 
-            alt="" width="50" height="50"/></a>
+            alt="Implementación de un flujo de trabajo de código en la canalización de compilación mediante Git y GitHub" width="50" height="50"/></a>
+        </td>
+        <td align="center">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.github-actions-ci.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer">
+            <img src="https://learn.microsoft.com/es-es/training/achievements/github/github-actions-ci.svg" 
+            alt="Creación de flujos de trabajo de integración continua (CI) mediante Acciones de GitHub" width="50" height="50"/></a>
         </td>
     </tr>
+    <tr id="3.1">
+        <td align="center">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.upload-project-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer">
+            <img src="https://learn.microsoft.com/es-es/training/achievements/github/upload-project-github.svg" 
+            alt="Carga de un proyecto mediante procedimientos recomendados de GitHub" width="50" height="50"/></a>
+        </td>
+        <td align="center">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.communicate-using-markdown.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer">
+            <img src="https://learn.microsoft.com/es-es/training/achievements/github/communicate-using-markdown.svg" 
+            alt="Comunicación eficaz en GitHub con Markdown" width="50" height="50"/></a>
+        </td>
+        <td align="center">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.automate-github-using-github-script.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer">
+            <img src="https://learn.microsoft.com/es-es/training/achievements/github/automate-github-using-github-script.svg" 
+            alt="Automatización de GitHub mediante Script de GitHub" width="50" height="50"/></a>
+        </td>
+        <td align="center" rowspan="2">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.release-based-workflow-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer">
+            <img src="https://learn.microsoft.com/es-es/training/achievements/github/release-based-workflow-github.svg" 
+            alt="Administración de la entrega de software mediante un flujo de trabajo basado en versiones en GitHub" width="50" height="50"/></a>
+        </td>
+        <td align="center" rowspan="2">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.manage-changes-pull-requests-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer">
+            <img src="https://learn.microsoft.com/es-es/training/achievements/github/manage-changes-pull-requests-github.svg" 
+            alt="Administración de cambios de repositorio por medio de solicitudes de incorporación de cambios en GitHub" width="50" height="50"/></a>
+        </td>
+        <td align="center" rowspan="2">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.merge-conflict-resolution-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer">
+            <img src="https://learn.microsoft.com/es-es/training/achievements/github/resolve-merge-conflicts-github.svg" 
+            alt="Solución de confirmaciones conflictivas mediante la resolución de conflictos de combinación en GitHub" width="50" height="50"/></a>
+        </td>
+        <td align="center" rowspan="2">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.automate-devops-github-apps.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer">
+            <img src="https://learn.microsoft.com/es-es/training/achievements/github/automate-devops-github-apps.svg" 
+            alt="Automatización de procesos de DevOps mediante aplicaciones de GitHub" width="50" height="50"/></a>
+        </td>
+        <td align="center" rowspan="2">
+        <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.search-organize-repository-history-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer">
+            <img src="https://learn.microsoft.com/es-es/training/achievements/github/search-organize-repository-history-github.svg" 
+            alt="Organización del historial de un repositorio y búsqueda mediante GitHub" width="50" height="50"/></a>
+        </td>
+    </th>
     <tr id="4">
-        <th align="center" colspan="2">
+        <th align="center" colspan="1">
         <a href="https://learn.microsoft.com/es-es/training/achievements/learn.manage-project-lifecycle-github.trophy?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/github/manage-project-lifecycle-github.svg" alt="Administración del ciclo de vida de los proyectos en GitHub" width="50" height="50"/></a>
         </th>
-        <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
-            <img src="https://learn.microsoft.com/es-es/training/achievements/github/release-based-workflow-github.svg" 
-            alt="" width="50" height="50"/></a>
-        </td>
-        <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
-            <img src="https://learn.microsoft.com/es-es/training/achievements/github/manage-changes-pull-requests-github.svg" 
-            alt="" width="50" height="50"/></a>
-        </td>
-        <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
-            <img src="https://learn.microsoft.com/es-es/training/achievements/github/resolve-merge-conflicts-github.svg" 
-            alt="" width="50" height="50"/></a>
-        </td>
-        <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
-            <img src="https://learn.microsoft.com/es-es/training/achievements/github/automate-devops-github-apps.svg" 
-            alt="" width="50" height="50"/></a>
-        </td>
-        <td align="center">
-        <a href="" target="_blank" rel="noreferrer">
-            <img src="https://learn.microsoft.com/es-es/training/achievements/github/search-organize-repository-history-github.svg" 
-            alt="" width="50" height="50"/></a>
-        </td>
-        <td></td>
+        <td align="center" colspan="3"> ---- </td>
     </tr>
 </table>
 
