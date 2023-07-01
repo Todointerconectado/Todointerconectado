@@ -25,9 +25,9 @@
 <table id="tabla_microsoft" align="center">
     <tr>
         <th colspan="1">
-            <h4 align="center">
+            <h6 align="center">
                 Rutas
-            </h4>
+            </h6>
         </th>
         <td align="center" colspan="1">
         <a href="https://learn.microsoft.com/es-es/training/achievements/learn.azure.cna-architect-modern-apps.trophy?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/create-cloud-native-apps-with-azure-open-source.svg" alt="Creación de aplicaciones nativas en la nube con Azure y software de código abierto" width="50" height="50"/></a>
@@ -44,9 +44,13 @@
     </tr>
     <tr>
         <td  rowspan="9" colspan="1">
-            <h4 align="center">
-                Módulos
-            </h4>
+            <h6 align="center">M</h6>
+            <h6 align="center">ó</h6>
+            <h6 align="center">d</h6>
+            <h6 align="center">u</h6>
+            <h6 align="center">l</h6>
+            <h6 align="center">o</h6>
+            <h6 align="center">s</h6>
         </td>
     </tr>
     <tr id="1">
@@ -154,9 +158,9 @@
         <td align="center" colspan="2">
         <a href="https://learn.microsoft.com/es-es/training/achievements/learn.github.upload-project-github.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/es-es/training/achievements/github/upload-project-github.svg" alt="Carga de un proyecto mediante procedimientos recomendados de GitHub" width="50" height="50"/></a>
         </td>
-        <td align="center" colspan="1"> _____ </td>
-        <td align="center" colspan="1"> _____ </td>
-        <td align="center" colspan="1"> _____ </td>
+        <td align="center" colspan="1"> </td>
+        <td align="center" colspan="1"> </td>
+        <td align="center" colspan="1"> </td>
     </tr>
     <tr id="6">
         <td align="center">
@@ -172,7 +176,7 @@
         <a href="https://learn.microsoft.com/es-es/training/achievements/learn.azure.cna-set-up-apps-use-scale.badge?username=FranciscoCarusso&sharingId=CBEF06DF72EF9D85" target="_blank" rel="noreferrer">
             <img src="https://learn.microsoft.com/es-es/training/achievements/cna-set-up-azure-ad-use-scale.svg" alt="Autenticación y autorización de aplicaciones multiinquilino mediante Azure Active Directory (Azure AD)" width="50" height="50"/></a>
         </td>
-        <td align="center" colspan="5"> _____ </td>
+        <td align="center" colspan="5"> </td>
     </td>
 </table>
 </details>
